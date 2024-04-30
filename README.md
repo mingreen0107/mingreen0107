@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=footer&text=텍스트&fontSize=텍스트크기" />
-
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bigdata)](https://solved.ac/bigdata)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingreen0107)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingreen0107)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
 ![ANDROID](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
@@ -14,13 +18,6 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingreen0107)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingreen0107)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
 
 <!--
