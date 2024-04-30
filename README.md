@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
 <img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=footer&text=텍스트&fontSize=텍스트크기" />
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={bigdata})](https://solved.ac/{bigdata})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bigdata)](https://solved.ac/bigdata)
 
 ![ANDROID](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
