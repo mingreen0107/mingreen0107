@@ -32,8 +32,8 @@
     <td>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
       <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-      <img scr="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-      <img scr="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
     </td>
   </tr>
 
@@ -76,6 +76,8 @@
 - Firebase 퍼널 분석 기반 개선
 - 사용자 흐름 개선 → 전환율 상승
 - 누적 매출 약 3,000만 원
+- 누적 지원금 약 4,000만 원
+- 2025 예비창업패키지 선정 아이디어
 
 ---
 
@@ -85,6 +87,7 @@
 - GeoPandas 기반 클러스터링
 - 지도 기반 배송 최적화
 - 물류 효율 개선 모델 설계
+- 2025 원주시 공공데이터 활용 아이디어 구문 우수상 (원주시장상)
 
 ---
 
