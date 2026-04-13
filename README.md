@@ -73,19 +73,19 @@
 
 <table width="100%">
 <tr>
-<td width="43%" style="vertical-align:top">
+<td width="50%" style="vertical-align:top">
 
 **지역 기반 공동구매 플랫폼**
 
-- MVP 수요 검증 후 실제 거래 성사    
-- Firebase 기반 퍼널 분석, 이탈 구간 개선    
-- 사용자 흐름 최적화를 통해 전환율 상승    
-- 누적 매출 약 3,000만 원 달성         
-- 2025 예비창업패키지 선정      
+- MVP 수요 검증 후 실제 거래 성사  
+- Firebase 기반 퍼널 분석, 이탈 구간 개선  
+- 사용자 흐름 최적화를 통해 전환율 상승  
+- 누적 매출 약 3,000만 원 달성    
+- 2025 예비창업패키지 선정    
 
 </td>
 
-<td width="57%" style="vertical-align:top">
+<td width="50%" style="vertical-align:top">
 
 **Local-based group buying platform**
 
