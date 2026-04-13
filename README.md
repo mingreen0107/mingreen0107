@@ -1,37 +1,102 @@
-### WELCOM 👋
+<div align="center">
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bigdata)](https://solved.ac/bigdata) 
+# Arnualt
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+### Data-driven Product Builder | Entrepreneur | Analyst
 
-![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+데이터로 문제를 정의하고, 실행으로 성과를 만드는 사람
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+</div>
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=cold)
+---
 
-<!--
-노션 넣고 링크 삽입
-<a href="링크"><img src="https://img.shields.io/badge/텍스트-색상코드?style=flat-square&logo=로고이름&logoColor=로고색"/></a>
--->
+## 💻 Languages & Frameworks
 
-- 🌱 I’m currently learning ...
+<table>
+  <tr>
+    <td><b>Category</b></td>
+    <td><b>Technologies</b></td>
+  </tr>
 
-<!--
-**mingreen0107/mingreen0107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <tr>
+    <td>Data</td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+    </td>
+  </tr>
 
-Here are some ideas to get you started:
+  <tr>
+    <td>Homepage</td>
+    <td>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+      <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img scr="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+      <img scr="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+    </td>
+  </tr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <tr>
+    <td>Analysis</td>
+    <td>
+      <img src="https://img.shields.io/badge/A/B Testing-FF6F00?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Funnel Analysis-00ACC1?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Cohort Analysis-8E24AA?style=for-the-badge"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Visualization</td>
+    <td>
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Collaboration</td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+    </td>
+  </tr>
+
+</table>
+
+---
+
+## 🚀 Projects
+
+### 🦋 Nabi
+지역 기반 공동구매 플랫폼
+
+- MVP 검증 → 실제 거래 발생
+- Firebase 퍼널 분석 기반 개선
+- 사용자 흐름 개선 → 전환율 상승
+- 누적 매출 약 3,000만 원
+
+---
+
+### 📍 Nabigo
+공동배송 권역 최적화 시스템
+
+- GeoPandas 기반 클러스터링
+- 지도 기반 배송 최적화
+- 물류 효율 개선 모델 설계
+
+---
+
+## 📫 Contact
+
+- Email: 71gnos@naver.com
+- Portfolio: linkedin.com/in/arnault-song
+
+---
+
+<div align="center">
+
+💡 “Turning data into decisions, and ideas into results.”
+
+</div>
