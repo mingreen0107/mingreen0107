@@ -133,6 +133,14 @@
 
 ---
 
+## 🌐 Portfolio
+
+<a href="https://mingreen0107.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-8A63D2?style=for-the-badge"/>
+</a>
+
+---
+
 ## 📫 Contact
 
 - Email: 71gnos@naver.com
