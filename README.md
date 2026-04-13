@@ -73,29 +73,29 @@
 
 <table width="100%">
 <tr>
-<td width="50%" style="vertical-align:top">
+<td width="43%" style="vertical-align:top">
 
 **지역 기반 공동구매 플랫폼**
 
-- MVP 검증 후 실제 거래 성사 및 수요 확인  
-- Firebase 기반 퍼널 분석으로 이탈 구간 도출 및 개선  
-- 사용자 흐름 최적화를 통해 전환율 상승  
-- 누적 매출 약 3,000만 원 달성  
-- 누적 지원금 약 4,000만 원 확보  
-- 2025 예비창업패키지 선정  
+- MVP 수요 검증 후 실제 거래 성사
+- Firebase 기반 퍼널 분석, 이탈 구간 개선
+- 사용자 흐름 최적화를 통해 전환율 상승
+- 누적 매출 약 3,000만 원 달성
+- 누적 지원금 약 4,000만 원 확보
+- 2025 예비창업패키지 선정
 
 </td>
 
-<td width="50%" style="vertical-align:top">
+<td width="57%" style="vertical-align:top">
 
 **Local-based group buying platform**
 
-- Validated MVP with real user transactions  
-- Identified drop-off points via Firebase funnel analysis  
-- Optimized user flow to improve conversion rate  
-- Generated ~$22K in total revenue  
-- Secured ~$30K in funding  
-- Selected for 2025 Government Startup Program  
+- Validated MVP with real user transactions
+- Identified drop-off points via Firebase funnel analysis
+- Optimized user flow to improve conversion rate
+- Generated ~$22K in total revenue
+- Secured ~$30K in funding
+- Selected for 2025 Government Startup Program
 
 </td>
 </tr>
