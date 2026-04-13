@@ -90,10 +90,10 @@
 **Local-based group buying platform**
 
 - Validated MVP with real user transactions    
-- Identified drop-off points via Firebase funnel analysis    
+- Identified drop-off points via Firebase  
 - Optimized user flow to improve conversion rate    
 - Generated ~$22K in total revenue    
-- Selected for 2025 Government Startup Program    
+- Selected for 2025 Government Startup
 
 </td>
 </tr>
