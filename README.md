@@ -80,9 +80,8 @@
 - MVP 수요 검증 후 실제 거래 성사    
 - Firebase 기반 퍼널 분석, 이탈 구간 개선    
 - 사용자 흐름 최적화를 통해 전환율 상승    
-- 누적 매출 약 3,000만 원 달성    
-- 누적 지원금 약 4,000만 원 확보    
-- 2025 예비창업패키지 선정    
+- 누적 매출 약 3,000만 원 달성         
+- 2025 예비창업패키지 선정      
 
 </td>
 
@@ -90,12 +89,11 @@
 
 **Local-based group buying platform**
 
-- Validated MVP with real user transactions
-- Identified drop-off points via Firebase funnel analysis
-- Optimized user flow to improve conversion rate
-- Generated ~$22K in total revenue
-- Secured ~$30K in funding
-- Selected for 2025 Government Startup Program
+- Validated MVP with real user transactions    
+- Identified drop-off points via Firebase funnel analysis    
+- Optimized user flow to improve conversion rate    
+- Generated ~$22K in total revenue    
+- Selected for 2025 Government Startup Program    
 
 </td>
 </tr>
@@ -114,7 +112,8 @@
 - GeoPandas 기반 클러스터링으로 배송 권역 자동 분류  
 - 지도 데이터 기반 배송 동선 최적화 모델 설계  
 - 공동배송 구조를 통한 물류 효율 개선  
-- 공공데이터 활용 아이디어 공모전 출품 및 고도화 진행  
+- 공공데이터 활용 아이디어 공모전 출품 및 고도화 진행
+- 2025 원주시 공공데이터 활용 공모전 우수상 (원주시장상)
 
 </td>
 
@@ -125,7 +124,8 @@
 - Clustered delivery zones using GeoPandas  
 - Designed route optimization model with map data  
 - Improved logistics efficiency through shared delivery  
-- Advanced for public data-driven innovation competition  
+- Advanced for public data-driven innovation competition
+- 2025 Wonju City Public Data Utilization Contest Excellence Award (Wonju Mayor's Award)
 
 </td>
 </tr>
