@@ -70,24 +70,66 @@
 ## 🚀 Projects
 
 ### 🦋 Nabi
-지역 기반 공동구매 플랫폼
 
-- MVP 검증 → 실제 거래 발생
-- Firebase 퍼널 분석 기반 개선
-- 사용자 흐름 개선 → 전환율 상승
-- 누적 매출 약 3,000만 원
-- 누적 지원금 약 4,000만 원
-- 2025 예비창업패키지 선정 아이디어
+<table width="100%">
+<tr>
+<td width="50%" style="vertical-align:top">
+
+**지역 기반 공동구매 플랫폼**
+
+- MVP 검증 후 실제 거래 성사 및 수요 확인  
+- Firebase 기반 퍼널 분석으로 이탈 구간 도출 및 개선  
+- 사용자 흐름 최적화를 통해 전환율 상승  
+- 누적 매출 약 3,000만 원 달성  
+- 누적 지원금 약 4,000만 원 확보  
+- 2025 예비창업패키지 선정  
+
+</td>
+
+<td width="50%" style="vertical-align:top">
+
+**Local-based group buying platform**
+
+- Validated MVP with real user transactions  
+- Identified drop-off points via Firebase funnel analysis  
+- Optimized user flow to improve conversion rate  
+- Generated ~$22K in total revenue  
+- Secured ~$30K in funding  
+- Selected for 2025 Government Startup Program  
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 📍 Nabigo
-공동배송 권역 최적화 시스템
 
-- GeoPandas 기반 클러스터링
-- 지도 기반 배송 최적화
-- 물류 효율 개선 모델 설계
-- 2025 원주시 공공데이터 활용 아이디어 구문 우수상 (원주시장상)
+<table width="100%">
+<tr>
+<td width="50%" style="vertical-align:top">
+
+**공동배송 권역 최적화 시스템**
+
+- GeoPandas 기반 클러스터링으로 배송 권역 자동 분류  
+- 지도 데이터 기반 배송 동선 최적화 모델 설계  
+- 공동배송 구조를 통한 물류 효율 개선  
+- 공공데이터 활용 아이디어 공모전 출품 및 고도화 진행  
+
+</td>
+
+<td width="50%" style="vertical-align:top">
+
+**Neighborhood delivery optimization system**
+
+- Clustered delivery zones using GeoPandas  
+- Designed route optimization model with map data  
+- Improved logistics efficiency through shared delivery  
+- Advanced for public data-driven innovation competition  
+
+</td>
+</tr>
+</table>
 
 ---
 
