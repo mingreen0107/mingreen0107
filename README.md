@@ -4,7 +4,7 @@
 
 ### Data-driven Product Builder | Entrepreneur | Analyst
 
-데이터로 문제를 정의하고, 실행으로 성과를 만드는 사람
+성장을 즐기는 사람
 
 </div>
 
