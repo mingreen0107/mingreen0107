@@ -148,6 +148,6 @@
 
 <div align="center">
 
-💡 “Turning data into decisions, and ideas into results.”
+💡 “Enjoys growth through Persistence”
 
 </div>
