@@ -143,7 +143,6 @@
 ## 📫 Contact
 
 - Email: 71gnos@naver.com
-- Portfolio: linkedin.com/in/arnault-song
 
 ---
 
