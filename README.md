@@ -4,7 +4,7 @@
 
 ### Data-driven Product Builder | Entrepreneur | Analyst
 
-성장을 즐기는 사람
+집요함으로 성장을 즐기는 사람
 
 </div>
 
