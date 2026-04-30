@@ -124,7 +124,7 @@
 - Designed route optimization model with map data  
 - Improved logistics efficiency through shared delivery  
 - Advanced for public data-driven innovation competition
-- 2025 Wonju City Public Data Utilization Contest Excellence Award (Wonju Mayor's Award)
+- 2025 Wonju City Public Data Utilization Contest Wonju Mayor's Award
 
 </td>
 </tr>
