@@ -143,6 +143,7 @@
 ## 📫 Contact
 
 - Email: 71gnos@naver.com
+- Notion: https://jolly-nyala-acf.notion.site/DA-346c40e6158e802d93bbc0b2e3604a75?source=copy_link
 
 ---
 
