@@ -2,7 +2,7 @@
 
 # Arnualt
 
-### Data-driven Product Builder | Entrepreneur | Analyst
+### Data-driven Product Builder | Entrepreneur | Analyst | FDE
 
 집요하게 성장하는 사람
 
@@ -28,21 +28,30 @@
   </tr>
 
   <tr>
+    <td>AI / Engineering</td>
+    <td>
+      <img src="https://img.shields.io/badge/Forward%20Deployed%20Engineer-0A0A0A?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/AI%20Workflow-FF4F64?style=for-the-badge"/>
+    </td>
+  </tr>
+
+  <tr>
     <td>Homepage</td>
     <td>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
       <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
     </td>
   </tr>
 
   <tr>
     <td>Analysis</td>
     <td>
-      <img src="https://img.shields.io/badge/A/B Testing-FF6F00?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Funnel Analysis-00ACC1?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Cohort Analysis-8E24AA?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/A%2FB%20Testing-FF6F00?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Funnel%20Analysis-00ACC1?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Cohort%20Analysis-8E24AA?style=for-the-badge"/>
     </td>
   </tr>
 
@@ -50,7 +59,7 @@
     <td>Visualization</td>
     <td>
       <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
     </td>
   </tr>
 
@@ -63,6 +72,43 @@
   </tr>
 
 </table>
+
+---
+
+## 🧠 Experience
+
+### 🚀 Enhans AI | Forward Deployed Engineer (FDE)
+
+<table width="100%">
+<tr>
+<td width="50%" style="vertical-align:top">
+
+**AI 현장 구축 및 문제 해결 엔지니어**
+
+- 고객사 업무 환경에 AI 솔루션 직접 구축 및 운영  
+- 실제 비즈니스 프로세스에 맞춘 AI Workflow 설계  
+- 현장 데이터 기반 문제 분석 및 기술 이슈 해결  
+- LLM 기반 자동화 및 생산성 향상 프로젝트 수행  
+- 고객 요구사항을 제품 기능과 연결하는 역할 수행  
+
+</td>
+
+<td width="50%" style="vertical-align:top">
+
+**Field-focused AI implementation engineer**
+
+- Deployed AI solutions directly into client environments  
+- Designed AI workflows tailored to business operations  
+- Solved technical issues using real operational data  
+- Built LLM-based automation and productivity systems  
+- Bridged customer needs with product implementation  
+
+</td>
+</tr>
+</table>
+
+> FDE(Forward Deployed Engineer)는 고객 현장에 직접 들어가  
+> AI와 소프트웨어를 실제 업무 환경에 구현하는 엔지니어 역할입니다.
 
 ---
 
