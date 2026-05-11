@@ -2,7 +2,7 @@
 
 # Arnualt
 
-### Data-driven Product Builder | Entrepreneur | Analyst | FDE
+### Data-driven Product Builder | Entrepreneur | Analyst
 
 집요하게 성장하는 사람
 
@@ -77,7 +77,7 @@
 
 ## 🧠 Experience
 
-### 🚀 Enhans AI | Forward Deployed Engineer (FDE)
+### 🚀 Enhans AI | Forward Deployed Engineer
 
 <table width="100%">
 <tr>
@@ -107,8 +107,7 @@
 </tr>
 </table>
 
-> FDE(Forward Deployed Engineer)는 고객 현장에 직접 들어가  
-> AI와 소프트웨어를 실제 업무 환경에 구현하는 엔지니어 역할입니다.
+> FDE는 고객 현장에 직접 들어가 AI와 소프트웨어를 실제 업무 환경에 구현하는 엔지니어 역할입니다.
 
 ---
 
