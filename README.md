@@ -75,40 +75,12 @@
 
 ---
 
-## 🧠 Experience
+## 🚀 Currently
 
-### 🚀 Enhans AI | Forward Deployed Engineer
-
-<table width="100%">
-<tr>
-<td width="50%" style="vertical-align:top">
-
-**AI 현장 구축 및 문제 해결 엔지니어**
-
-- 고객사 업무 환경에 AI 솔루션 직접 구축 및 운영  
-- 실제 비즈니스 프로세스에 맞춘 AI Workflow 설계  
-- 현장 데이터 기반 문제 분석 및 기술 이슈 해결  
-- LLM 기반 자동화 및 생산성 향상 프로젝트 수행  
-- 고객 요구사항을 제품 기능과 연결하는 역할 수행  
-
-</td>
-
-<td width="50%" style="vertical-align:top">
-
-**Field-focused AI implementation engineer**
-
-- Deployed AI solutions directly into client environments  
-- Designed AI workflows tailored to business operations  
-- Solved technical issues using real operational data  
-- Built LLM-based automation and productivity systems  
-- Bridged customer needs with product implementation  
-
-</td>
-</tr>
-</table>
-
-> FDE는 고객 현장에 직접 들어가 AI와 소프트웨어를 실제 업무 환경에 구현하는 엔지니어 역할입니다.
-
+- Enhans AI에서 Forward Deployed Engineer(FDE)로 근무
+- 고객사 환경에 AI 솔루션을 실제 업무 프로세스에 적용 및 운영
+- 데이터 기반 제품 기획 및 AI Workflow 구축
+  
 ---
 
 ## 🚀 Projects
