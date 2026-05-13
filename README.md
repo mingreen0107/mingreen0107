@@ -77,9 +77,9 @@
 
 ## 🚀 Currently
 
-- Enhans AI에서 Forward Deployed Engineer(FDE)로 근무
-- 고객사 환경에 AI 솔루션을 실제 업무 프로세스에 적용 및 운영
-- 데이터 기반 제품 기획 및 AI Workflow 구축
+- 2026.06.01 ~ ing |  Enhans AI에서 Forward Deployed Engineer(FDE)로 근무 중
+                      고객사 환경에 AI 솔루션을 실제 업무 프로세스에 적용 및 운영
+                      데이터 기반 제품 기획 및 AI Workflow 구축
   
 ---
 
